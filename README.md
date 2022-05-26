@@ -35,4 +35,6 @@ http://127.0.0.1:8088/info
 #### Доступ к админке БД:
 http://127.0.0.1:8989/?server=db&username=root&db=keepcalmtest_db
 
+password: root
+
 
