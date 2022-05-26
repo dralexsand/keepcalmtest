@@ -24,6 +24,8 @@ cp .env.example .env
 
 docker-compose up --build
 
+docker exec keepcalmtest_php-server composer update
+
 #### Основная страница:
 http://127.0.0.1:8088
 
